@@ -25,3 +25,7 @@ e = "a string with a right side."
 
 #Realizando uma concatenação de strings
 puts w + e
+
+
+# obs: se trocar aspas duplas por simples a formatação #{} para mostar variaveis
+#deixa de ser reconhecida.
