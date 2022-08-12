@@ -17,5 +17,8 @@ end11 = "e"
 end12 = "r"
 
 # watch that print vs. puts on this line what's it do?
+#A instrução puts é uma abreviação de "put string" e automaticamente move 
+#o cursor para a próxima linha. A instrução print é usada quando queremos 
+#escrever e manter o cursor na mesma linha.
 print end1 + end2 + end3 + end4 + end5 + end6
 puts end7 + end8 + end9 + end10 + end11 + end12
