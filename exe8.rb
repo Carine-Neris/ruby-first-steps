@@ -11,3 +11,7 @@ puts formatter % {
   third: "But it didn't sing.",
   fourth: "So I said goodnight."
 }
+
+#O que acontece nesse caso?
+nome = "%{} %{}"
+puts nome % {"":"Carine", "":"Neris"}
